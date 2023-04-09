@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../opt/pico-sdk"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"task.h": "c",
+			"stdio.h": "c"
+		}
+	}
+}
